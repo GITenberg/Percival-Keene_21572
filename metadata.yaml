@@ -1,0 +1,36 @@
+_repo: Percival-Keene_21572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Kapitein
+    - Marryat, F. W. (Frederick W.)
+    - Marryatt, Captain
+    - Marryat, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: Percival Keene, a young low-born seaman, goes on a mission to discover
+  and claims his true parentage and identity. He endures battles both great and small,
+  a stint on board a pirate ship, a stormy romance, and near-execution at the hands
+  of Napoleon himself.
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Fiction'
+title: Percival Keene
+url: http://www.gutenberg.org/ebooks/21572
